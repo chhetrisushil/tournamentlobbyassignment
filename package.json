@@ -1,0 +1,22 @@
+{
+  "name": "tournament-lobby",
+  "version": "1.0.0",
+  "description": "Assignment to build a tournament lobby",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lobby"
+  ],
+  "author": "chhetrisushil",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.3.1",
+    "express": "^4.12.4",
+    "express-ws": "^0.2.6"
+  },
+  "devDependencies": {
+    "morgan": "^1.5.3"
+  }
+}
